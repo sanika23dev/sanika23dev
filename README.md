@@ -1,4 +1,4 @@
-![logo](https://github.com/sanika23dev/sanika23dev/blob/main/Screenshot%202025-06-13%20185056.png)
+![logo](https://github.com/sanika23dev/sanika23dev/blob/main/Screenshot%202025-06-14%20005551.png)
 <h1 align="center">Hi 👋, I'm Sanika</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/30832962/file/original-199091f9b19f067153ecd518321a3898.gif">
